@@ -1,11 +1,11 @@
 {
-  "prompt": {
-    "text": "Happy Einstein as ironman in space, 4k, detailed, ultrareal, vivid colors, a sense of awe",
-    "seed": 452257
-  },
+  "prompt": "Happy Einstein as ironman in space, 4k, detailed, ultrareal, vivid colors, a sense of awe",
   "credits": "https://www.reddit.com/user/Fun-Confusion-8790/",
   "source": "https://www.reddit.com/r/StableDiffusion/comments/x5jn2p/ironstein/",
   "examples": [
     "https://i.redd.it/msf0d26qitl91.png"
+  ],
+  "example_seeds": [
+    452257
   ]
 }
